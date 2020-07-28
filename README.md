@@ -4,3 +4,6 @@ Note - to add Nodes you must hold shift + right click, this was due to the libra
 making it impossible to add standard context menu request to it as a whole. 
 
 May fix this at a later point in time as a seperate project as I would like to rewrite the code for the Node to Node section without out the external library for more fluid code.
+
+External Libraries used:
+fxgraph
